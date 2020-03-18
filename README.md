@@ -1,6 +1,7 @@
 <h1 align="center">Asia Ellis</h1>
 
-<div align= "center" >
+<div align= "center">
+ 
 [*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
  </div>
 
