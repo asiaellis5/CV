@@ -6,7 +6,7 @@ I am an enthusiastic and ambitious Full Stack Junior Developer with a passion fo
 ## Projects
 
 | Name                      | Description                                                    | Technologies           |
-| ------------------------: |:------------------------------------------------------------:  | ---------------------: |
+| -----------------------:  |:------------------------------------------------------------:  | ---------------------: |
 | Net-Positive-Pong         | A version of Atari Pong where we trained a Neural Network      | Python, Django         |
 |                           | to play the game in two weeks with no prior knowledge of       | Javascript, AWS, HTML  |
 |                           | Machine learning or Python. A user can play against 5 different| JQuery, CSS, Jasmine   |
@@ -14,18 +14,18 @@ I am an enthusiastic and ambitious Full Stack Junior Developer with a passion fo
 |                           | scratch, against another user in our mulitplayer mode or watch |                        |
 |                           | a Neural Network train and improve based on pixel data.        |                        |
 |                           |[Pong](https://github.com/asiaellis5/Net-positive-pong)         |                        |
-|-------------------------: | ------------------------------------------------------------:  | ---------------------: |
+|------------------------:  | ------------------------------------------------------------:  | ---------------------: |
 | Acebook                   | Clone of Facebook built over two weeks as part of a group      | Ruby, Rails, Rspec,    |
 |                           |  Project. Demonstrates my ability to work as part of a team,   | HTML, CSS Heroku       |    
 |                           | following agile workflows and meeting the needs of a client.   | Rubocop, Travis CI,    | 
 |                           | following agile workflows and meeting the needs of a client.   | Capybara, Bootstrap    |
 |                           | [Acebook](https://github.com/asiaellis5/acebook-U-JAKD)        |                        |
-|-------------------------: |-------------------------------------------------------------:  | ---------------------: |
+|------------------------:  |-------------------------------------------------------------:  | ---------------------: |
 | Makers BnB                | Clone of the popular property letting site Air Bnb created as  | Ruby, Javascript       |
 |                           | part of one week group project. Users can sign up, list        | Sinatra, Rspec,        |  
 |                           | properties, book properties and chat online instantly.         | JQuery, HTML/ CSS      |
 |                           |[BnB](https://github.com/asiaellis5/Makers-Bnb)                 | Capybara, Bootstrap    |
-|-------------------------: |-------------------------------------------------------------:  |----------------------: |
+|------------------------:  |-------------------------------------------------------------:  |----------------------: |
 
 For a complete list of my projects and the source code for each, please see my [Github](https://github.com/asiaellis5).
 
