@@ -1,25 +1,18 @@
 ## Asia Ellis
 
-I am an enthusiastic and ambitious Full Stack Junior Developer with a passion for problem solving and building and creating exciting new things. I have recently graduated from the intesive Software Developement Bootcamp Makers Academy and I am look for a role where I can consolidate my programming knowledge, further my passion for this subject and work as part of a developer team to create exciting new things. My time at Makers not only taught me how to learn but has given me a deep understanding of the core skills of Software Development and has instilled in me great Agile processes whilst working as part of a team, which I am keen to put into practice. 
+I am an enthusiastic and ambitious Full Stack Junior Developer with a passion for problem solving, building and creating. I have recently graduated from the intensive Software Developement Bootcamp Makers Academy and I am looking for a role where I can use my programming knowledge, further develop my passion for software development and be a useful team member in some exciting projects. My time at Makers not only taught me how to learn but has given me a deep understanding of the core skills of Software Development and has instilled in me great Agile processes whilst working as part of a team, which I am keen to put into practice. 
 
 
 ## Projects
 
+<<<<<<< HEAD
 | Name | Description  | Technologies|
 | ---|---| ---|
 | [Net-Positive-Pong](https://github.com/asiaellis5/Net-positive-pong)  | A version of Atari Pong where we trained a Neural Network to play the game in two weeks with no prior knowledge of Machine learning or Python. A user can play against 5 different AI Bots, including a Neural Network we built and trained from scratch, against another user in our mulitplayer mode or watch a Neural Network train and improve based on pixel data.| Python, JavaScript, Django, HTML, CSS, Jasmine, Pytest, Heroku |
 
-| [Acebook](https://github.com/asiaellis5/acebook-U-JAKD) | Clone of Facebook built over two weeks as part of a group      | Ruby, Rails, Rspec,    |
-|                           |  Project. Demonstrates my ability to work as part of a team,   | HTML, CSS Heroku       |    
-|                           | following agile workflows and meeting the needs of a client.   | Rubocop, Travis CI,    | 
-|                           | following agile workflows and meeting the needs of a client.   | Capybara, Bootstrap    |
-|                           |         |                        |
-|                           |                                                                |                        |
-| Makers BnB                | Clone of the popular property letting site Air Bnb created as  | Ruby, Javascript       |
-|                           | part of one week group project. Users can sign up, list        | Sinatra, Rspec,        |  
-|                           | properties, book properties and chat online instantly.         | JQuery, HTML/ CSS      |
-|                           |[BnB](https://github.com/asiaellis5/Makers-Bnb)                 | Capybara, Bootstrap    |
-|                           |                                                                |                        |
+| [Acebook](https://github.com/asiaellis5/acebook-U-JAKD) | Clone of Facebook built over two weeks as part of a group Project. Demonstrates my ability to work as part of a team, following agile workflows and meeting the needs of a client.| Ruby, Rails, Rspec, HTML, CSS, Heroku, Rubocop, Travis CI, Capybara, Bootstrap| 
+
+| [MakersBnB](https://github.com/asiaellis5/Makers-Bnb)| Clone of the popular property letting site Air Bnb created as part of one week group project. Users can sign up, list properties, book properties and chat online instantly.|Ruby, Javascript, Sinatra, Rspec, JQuery, HTML/ CSS, Capybara, Bootstrap|
 
 For a complete list of my projects and the source code for each, please see my [Github](https://github.com/asiaellis5).
 
@@ -27,15 +20,15 @@ For a complete list of my projects and the source code for each, please see my [
 
 #### Teamwork and communication
 
-- Learning from my experience in high level team sport and customer facing roles, I was able to work very effectively througout the makers process both pairing and in group work. There was a joke amongst my peers that I was the common denomenator in the most successful projects as well as ensuring support and always boosting morale. Learning from my role as Social Secretary for the hockey club at University, I organised many social events for all of my cohort to unwind. I was also a mentor for two students from the cohort below me and was on hand to offer advice and help with any problems they may have had.  
+- Learning from my experience in high level team sport and customer facing roles, I was able to work very effectively througout the makers process both pairing and in group work. There was a joke amongst my peers that I was the common denomenator in the most successful projects as well as ensuring support and always boosting morale. Learning from my role as social secretary for the hockey club at the University of Manchester, I organised many social events for all of my cohort to unwind. I was also a mentor for two students from the cohort below me and was on hand to offer advice and help with any problems they may have had.  
 
 #### Attention to Detail
 
-- For two years in a row I was given an internship at one of the largest Institutional Research Platforms in Europe. My role included researching, adding data to databases and proof reading final reports. This taught me the importance of agility with data and accuracy.   
+- For two years in a row I was given an internship at one of the largest Institutional Research Platforms in Europe and have also worked at a major Wealth Manager and a corporate service provider. All roles have involved the accurate dessemination of data between different people departments and systems.
 
 #### Adaptable and Inquisitive
 
-- I am not afraid to learn and try new things, to further my language skills I went to live in France where I was able to learn to speak French to University standard in just two months. My Ancient History degree taught me discipline and hard work pays off and drove me to crave a deep understanding of a subject. I have enjoyed applying these skills into software development, most recently in my final project where I was able to learn and use Python and Django in just two weeks.
+- I love learning new skills and trying new things, to further my language skills I went to live in France where I was able to learn to speak French to University standard in just two months. My History degree taught me discipline and hard work and how to logically form an argument and the importance of understanding detail. I have enjoyed applying these skills into software development, most recently in my final project where I was able to learn and use Python and Django in just two weeks.
 
 
 ## Education
@@ -52,7 +45,7 @@ For a complete list of my projects and the source code for each, please see my [
 - BA Hons Ancient History
 - 2:1
 - 1st and 2nd Team Hockey
-  - Social Secreatary in Second Year- where I helped to organise large events for the hockey club.
+  - Social Secretary in Second Year- where I helped to organise large events for the hockey club.
   - Treasurer in Third Year- where I was in charge of the clubs finances 
 
 ## Experience
@@ -60,7 +53,7 @@ For a complete list of my projects and the source code for each, please see my [
 **Virginia Hayward Ltd** (August 2018 to January 2019 and  October 2014 to December 2014)   
 *Sales representative*  
 - Member of the sales and customer services team at one of Britains largest Hamper companys.
-- I helped to solicite exisitng and prospective customers, demonstrating my communication skills with a variety of different people.
+- I developed exisitng and prospective clients, using my business development and communication skills across a wide range of businesses.
 
 **Insitcube GMBH** ( July 2019 to September 2019, August 2018 to September 2018)    
 *Intern*  
@@ -73,8 +66,13 @@ For a complete list of my projects and the source code for each, please see my [
 - I helped in research where I learnt many technology trends within the financial markets at the time.
 - I wrote an ESG report for the company and was also involved in onboarding new clients and investing in portfolios.
 
+**Fairway Group Limited** (July 2017 to August 2017)   
+*Trainee Adminstrator*  
+- Working as a trainee administrator at an independent, owner-managed fiduciary group offering trust, fund and pension services. 
+- I helped with the administration of new clients managing and reviewing data and uploading it onto their system.
+
 ## Hobbies
 
-- Sport including Football, Hockey, Netball and more recently taking up Rock Climbing.
-- I love to travel, having spent 5 months before joing Makers travelling around Latin America. I love to explore places and learning about new cultures and ways of life.
+- Sport including Football, Hockey, Netball and especially Table Tennis and Climbing.
+- I love to travel, having spent 5 months before joining Makers travelling around Latin America. I enjoy exploration and learning about new cultures.
 - Meditation and Yoga
