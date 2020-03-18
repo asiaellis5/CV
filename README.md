@@ -1,6 +1,6 @@
 <h1 align="center">Asia Ellis</h1>
 
-[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests) | [*Contact*](#contact)
+[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
 
 
 
