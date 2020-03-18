@@ -1,9 +1,9 @@
 <h1 align="center">Asia Ellis</h1>
 
-<p align-"center>
+<div align-"center>
 [*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests) | [*Contact*](#contact)
 
-</p>
+</div>
 
 
 
