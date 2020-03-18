@@ -1,13 +1,11 @@
 <h1 align="center">Asia Ellis</h1>
 
 <p align-"center>
-
-<a href="https://www.linkedin.com/in/asia-ellis-687978120/">
-<img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests) | [*Contact*](#contact)
 
 </p>
 
-[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests) | [*Contact*](#contact)
+
 
 I am an enthusiastic and ambitious Full Stack Junior Developer with a passion for problem solving, building and creating. I have recently graduated from the intensive Software Developement Bootcamp Makers Academy and I am looking for a role where I can use my programming knowledge, further develop my passion for software development and be a useful team member in some exciting projects. My time at Makers not only taught me how to learn but has given me a deep understanding of the core skills of Software Development and has instilled in me great Agile processes whilst working as part of a team, which I am keen to put into practice. 
 
