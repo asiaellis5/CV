@@ -7,13 +7,13 @@ I am an enthusiastic and ambitious Full Stack Junior Developer with a passion fo
 
 | Name                      | Description                                                    | Technologies           |
 | --------------------------|----------------------------------------------------------------| -----------------------|
-| Net-Positive-Pong         | A version of Atari Pong where we trained a Neural Network      | Python, Django         |
-|                           | to play the game in two weeks with no prior knowledge of       | Javascript, AWS, HTML  |
-|                           | Machine learning or Python. A user can play against 5 different| JQuery, CSS, Jasmine   |
-|                           | AI Bots, including a Neural Network we built and trained from  | Pytest                 |       
-|                           | scratch, against another user in our mulitplayer mode or watch |                        |
-|                           | a Neural Network train and improve based on pixel data.        |                        |
-|                           |[Pong](https://github.com/asiaellis5/Net-positive-pong)         |                        |
+| Net-Positive-Pong         | A version of Atari Pong where we trained a Neural Network       | Python, Django      
+|                            to play the game in two weeks with no prior knowledge of        Javascript, AWS, HTML  
+|                            Machine learning or Python. A user can play against 5 different JQuery, CSS, Jasmine   
+|                            AI Bots, including a Neural Network we built and trained from   Pytest                        
+|                            scratch, against another user in our mulitplayer mode or watch                         
+|                            a Neural Network train and improve based on pixel data.                                
+|                           [Pong](https://github.com/asiaellis5/Net-positive-pong)         |                        |
 |                           |                                                                |                        |
 | Acebook                   | Clone of Facebook built over two weeks as part of a group      | Ruby, Rails, Rspec,    |
 |                           |  Project. Demonstrates my ability to work as part of a team,   | HTML, CSS Heroku       |    
