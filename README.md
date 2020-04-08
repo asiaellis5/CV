@@ -54,26 +54,38 @@ For a complete list of my projects and the source code for each, please see my [
 
 ## Experience
 
+**Longleat Safari Park** (June 2019 - September 2019)
+*Guest Services*
+- Member of the frontline customer service team, welcoming guests and solving problems
+-	Thinking on my feet and solving many varied and unique problems daily
+-	Nominated for an Award for my quick thinking in an emergency
+
+
 **Virginia Hayward Ltd** (August 2018 to January 2019 and  October 2014 to December 2014)   
 *Sales representative*  
-- Member of the sales and customer services team at one of Britains largest Hamper companys.
-- I developed exisitng and prospective clients, using my business development and communication skills across a wide range of businesses.
+- Handling individuals and corporate Christmas sales at Britain’s largest hamper company. 
+-	Top salesperson for the period highlighting a customer-focused approach
+-	Appointed key account manager for Not on the High Street demonstrating strong communication and leadership abilities
+-	During my second season I mentored and trained new recruits.
+
 
 **Insitcube GMBH** ( July 2019 to September 2019, August 2018 to September 2018)    
 *Intern*  
-- Internship at the largest Institutional Investor Research Platform in Europe, where I was responsible for updating their contact database.
-- This demonstrated attention to detail and my ability to work with large quantities of data
+- Data Analyst charged with identifying top 2000 Institutional Investors in Europe
+-	Identified sources, reviewed large quantities of data in many different languages validating my adaptability and initiative
+
 
 **LGT Vestra** (July 2018 to August 2018)   
 *Intern*  
-- Wealth Management Internship where I was offered a good overview of different aspects of the company.
-- I helped in research where I learnt many technology trends within the financial markets at the time.
-- I wrote an ESG report for the company and was also involved in onboarding new clients and investing in portfolios.
+- Wealth management intern working across various disciplines and departments
+-	Researched and presented their first ever ESG (Economic, Social and Governance) Report, exhibiting strong analytical, oral and written communication skills.
+
 
 **Fairway Group Limited** (July 2017 to August 2017)   
 *Trainee Adminstrator*  
-- Working as a trainee administrator at an independent, owner-managed fiduciary group offering trust, fund and pension services. 
-- I helped with the administration of new clients managing and reviewing data and uploading it onto their system.
+- Trainee administrator at a fiduciary group offering trust, fund and pension services. 
+-	Responsible for new client administration reviewing and checking data and uploading it onto their systems displaying accuracy and diligence.
+
 
 ## Interests
 
