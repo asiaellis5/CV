@@ -4,6 +4,10 @@
  
 [*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
  </div>
+ 
+ <div align="center>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-540%20commits-orange.svg" alt=""></a>
+ </div>
 
 
 I am an enthusiastic and ambitious Full Stack Junior Developer with a passion for problem solving, building and creating. I have recently graduated from the intensive Software Developement Bootcamp Makers Academy and I am looking for a role where I can use my programming knowledge, further develop my passion for software development and be a useful team member in some exciting projects. My time at Makers not only taught me how to learn but has given me a deep understanding of the core skills of Software Development and has instilled in me great Agile processes whilst working as part of a team, which I am keen to put into practice. 
