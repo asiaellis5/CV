@@ -5,7 +5,7 @@
 [*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
  </div>
  
- <div align="center>
+ <div align="center">
  <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-540%20commits-orange.svg" alt=""></a>
  <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Ruby-305%20commits-orange.svg" alt=""></a>
  <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Python-190%20commits-orange.svg" alt=""></a>
