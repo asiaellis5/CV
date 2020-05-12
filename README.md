@@ -31,7 +31,11 @@ I am an enthusiastic and ambitious Full Stack Junior Developer with a passion fo
 
 For a complete list of my projects and the source code for each, please see my [Github](https://github.com/asiaellis5).
 
+<div align="center">
+
 ## Skills
+
+</div>
 
 #### Teamwork and communication
 
@@ -46,7 +50,11 @@ For a complete list of my projects and the source code for each, please see my [
 - I love learning new skills and trying new things, to further my language skills I went to live in France where I was able to learn to speak French to University standard in just two months. My History degree taught me discipline and hard work and how to logically form an argument and the importance of understanding detail. I have enjoyed applying these skills into software development, most recently in my final project where I was able to learn and use Python and Django in just two weeks.
 
 
+<div align="center">
+
 ## Education
+
+</div>
 
 #### Makers Academy (November 2019 to March 2020)
 
@@ -98,7 +106,11 @@ For a complete list of my projects and the source code for each, please see my [
 -	Responsible for new client administration reviewing and checking data and uploading it onto their systems displaying accuracy and diligence.
 
 
+<div align="center">
+
 ## Interests
+
+</div>
 
 - Sport including Football, Hockey, Netball and especially Table Tennis and Climbing.
 - I love to travel, having spent 5 months before joining Makers travelling around Latin America. I enjoy exploration and learning about new cultures.
