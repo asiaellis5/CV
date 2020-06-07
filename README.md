@@ -6,11 +6,11 @@
  </div>
  
  <div align="center">
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-540%20commits-orange.svg" alt=""></a>
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Ruby-305%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-704%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Ruby-361%20commits-orange.svg" alt=""></a>
  <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Python-190%20commits-orange.svg" alt=""></a>
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/HTML-407%20commits-orange.svg" alt=""></a>
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/CSS-405%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/HTML-505%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/CSS-582%20commits-orange.svg" alt=""></a>
  </div>
 <br>
 <br>
