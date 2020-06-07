@@ -47,7 +47,7 @@ For a complete list of my projects and the source code for each, please see my [
 
 #### Adaptable and Inquisitive
 
-- I love learning new skills and trying new things, to further my language skills I went to live in France where I was able to learn to speak French to University standard in just two months. My History degree taught me discipline and hard work and how to logically form an argument and the importance of understanding detail. I have enjoyed applying these skills into software development, most recently in my final project where I was able to learn and use Python and Django in just two weeks.
+- I love learning new skills and trying new things, to further my language skills I went to live in France where I was able to learn to speak French to University standard in just two months. My History degree taught me discipline and hard work and how to logically form an argument and the importance of understanding detail. I have enjoyed applying these skills into software development, such as during my final project where I was able to learn and new language, framework and field (Python, Django and Machine Learning) in under two weeks.
 
 
 <div align="center">
