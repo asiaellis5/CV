@@ -24,10 +24,10 @@ I am an enthusiastic and ambitious Full Stack Junior Developer with a passion fo
 
 | Name | Description  | Technologies|
 | ---|---| ---|
+|[Pocket Positivity](https://github.com/asiaellis5/Makers-Bnb)| The winning entry for the June 2020 Hack for Heroes Hackathon. 2.5 days were given to build an app to help the heroes on the front line during the pandemic. A React Native app, allowing mood tracking, positive affirmation messages via push notifications, and a chatbot to offer helpful mental health tips and resources. | React Native, Expo, JavaScript, Node.js, Express.js, Chart.js, PostgreSQL, HTML, CSS, Jest, Enzyme, Heroku 
 | [Covid-19-Mapper](https://github.com/davidpaps/covid_19_mapper) | Project I have started since graduating from Makers. Single page React application that visually represents the covid-19 outbreak pulling in data through an API to show different statistics about the virus for each country in the world and every state in America | React, JavaScript, Bootstrap, CSS, HTML, Heroku, Jest
 | [Net-Positive-Pong](https://github.com/asiaellis5/Net-positive-pong)  | A version of the classic video game Pong where we trained a Neural Network to play the game in two weeks with no prior knowledge of Machine learning or Python. A user can play against 5 different AI Bots, including a Neural Network we built and trained from scratch, against another user in our mulitplayer mode or watch a Neural Network train and improve based on pixel data.| Python, JavaScript, Django, HTML, CSS, Jasmine, Pytest, Heroku 
 |[Acebook](https://github.com/asiaellis5/acebook-U-JAKD) | Clone of Facebook built over two weeks as part of a group Project. Demonstrates my ability to work as part of a team, following agile workflows and meeting the needs of a client.| Ruby, Rails, Rspec, HTML, CSS, Heroku, Rubocop, Travis CI, Capybara, Bootstrap
-|[MakersBnB](https://github.com/asiaellis5/Makers-Bnb)| Clone of the popular property letting site Air Bnb created as part of one week group project. Users can sign up, list properties, book properties and chat online instantly.|Ruby, Javascript, Sinatra, Rspec, JQuery, HTML/ CSS, Capybara, Bootstrap
 
 For a complete list of my projects and the source code for each, please see my [Github](https://github.com/asiaellis5).
 
