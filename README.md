@@ -6,7 +6,7 @@
  </div>
  
  <div align="center">
-<a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-717%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-773%20commits-blue.svg" alt=""></a>
  <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Ruby-361%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Python-204%20commits-orange.svg" alt=""></a>
  <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/HTML-511%20commits-orange.svg" alt=""></a>
