@@ -6,12 +6,12 @@
  </div>
  
  <div align="center">
-<a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-773%20commits-blue.svg" alt=""></a>
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Ruby-361%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Python-204%20commits-orange.svg" alt=""></a>
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/HTML-511%20commits-orange.svg" alt=""></a>
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/CSS-589%20commits-orange.svg" alt=""></a>
- <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/SQL-242%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/JavaScript-773%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Ruby-361%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/Python-204%20commits-blue.svg" alt=""></a>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/HTML-511%20commits-green.svg" alt=""></a>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/CSS-589%20commits-yellow.svg" alt=""></a>
+ <a href="https://sourcerer.io/asiaellis5"><img src="https://img.shields.io/badge/SQL-242%20commits-pink.svg" alt=""></a>
  </div>
 <br>
 <br>
